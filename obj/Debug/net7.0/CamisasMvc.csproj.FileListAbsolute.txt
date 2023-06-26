@@ -1,0 +1,108 @@
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\appsettings.Development.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\appsettings.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\CamisasMvc.staticwebassets.runtime.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\CamisasMvc.exe
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\CamisasMvc.deps.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\CamisasMvc.runtimeconfig.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\CamisasMvc.dll
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\CamisasMvc.pdb
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.AssemblyReference.cache
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.AssemblyInfoInputs.cache
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.AssemblyInfo.cs
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.CoreCompileInputs.cache
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.RazorAssemblyInfo.cache
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.RazorAssemblyInfo.cs
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.CamisasMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.CamisasMvc.props
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CamisasMvc.props
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CamisasMvc.props
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\staticwebassets.build.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\staticwebassets.development.json
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\scopedcss\bundle\CamisasMvc.styles.css
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\scopedcss\projectbundle\CamisasMvc.bundle.scp.css
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.CopyComplete
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.dll
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\refint\CamisasMvc.dll
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.pdb
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\CamisasMvc.genruntimeconfig.cache
+D:\2DS\CamisasApi\CamisasApi20062023 att1\CamisasMvc\obj\Debug\net7.0\ref\CamisasMvc.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.AssemblyReference.cache
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.AssemblyInfoInputs.cache
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.AssemblyInfo.cs
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.CoreCompileInputs.cache
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.RazorAssemblyInfo.cache
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.RazorAssemblyInfo.cs
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\refint\CamisasMvc.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.pdb
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\appsettings.Development.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\appsettings.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.staticwebassets.runtime.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.exe
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.deps.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.runtimeconfig.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.pdb
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.CamisasMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.CamisasMvc.props
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CamisasMvc.props
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CamisasMvc.props
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\staticwebassets.build.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\staticwebassets.development.json
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\scopedcss\bundle\CamisasMvc.styles.css
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\scopedcss\projectbundle\CamisasMvc.bundle.scp.css
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.CopyComplete
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.genruntimeconfig.cache
+D:\ETEC PROJETOS\DSI\CamisasApieMvc 20062023\CamisasMvc\obj\Debug\net7.0\ref\CamisasMvc.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\appsettings.Development.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\appsettings.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.staticwebassets.runtime.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.exe
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.deps.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.runtimeconfig.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\CamisasMvc.pdb
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.AssemblyReference.cache
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.AssemblyInfoInputs.cache
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.AssemblyInfo.cs
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.CoreCompileInputs.cache
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.RazorAssemblyInfo.cache
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.RazorAssemblyInfo.cs
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.CamisasMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.CamisasMvc.props
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CamisasMvc.props
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CamisasMvc.props
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\staticwebassets.build.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\staticwebassets.development.json
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\scopedcss\bundle\CamisasMvc.styles.css
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\scopedcss\projectbundle\CamisasMvc.bundle.scp.css
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.csproj.CopyComplete
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\refint\CamisasMvc.dll
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.pdb
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\CamisasMvc.genruntimeconfig.cache
+D:\2DS\CamisasApieMvc 26062023\CamisasMvc\obj\Debug\net7.0\ref\CamisasMvc.dll

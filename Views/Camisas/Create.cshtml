@@ -1,0 +1,38 @@
+@model CamisasMvc.Models.CamisasViewModel
+
+@{ViewBag.Title = "Criar Nova Camisa"; } <!-- Título da página para o navegador -->
+
+<h2>Criar Nova Camisa</h2> <!-- Título da página -->
+
+@using (Html.BeginForm("Create", "Camisas", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nome)
+        @Html.TextBoxFor(model => model.Nome, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ClasseSelecionada)
+        @Html.DropDownListFor(model => model.ClasseSelecionada, new SelectList(Model.ListaClasses), "Selecione uma classe", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Valor)
+        @Html.TextBoxFor(model => model.Valor, new { @class = "form-control" })
+    </div>
+
+    @if (TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["MensagemErro"]
+    </div>
+}
+
+    
+  
+    <button type="submit" class="btn btn-primary">Salvar</button>
+}
+
+<p>
+    @Html.ActionLink("Voltar para Lista", "Index")
+</p>

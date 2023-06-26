@@ -1,0 +1,23 @@
+@model CamisasMvc.Models.AdicionarFotoViewModel
+
+@{
+    ViewBag.Title = "Adicionar Foto";
+}
+
+<h2>Adicionar Foto</h2>
+
+@using (Html.BeginForm("AdicionarFoto", "Camisas", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.HiddenFor(model => model.CamisaId) <!-- Para enviar o ID da camisa -->
+
+    <div class="form-group">
+        <label for="foto">Foto:</label>
+        <input type="file" name="foto" id="foto" class="form-control-file" accept="image/*" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Adicionar Foto</button>
+}
+
+<p>
+    @Html.ActionLink("Voltar para Detalhes da Camisa", "Detalhes", new { id = Model.CamisaId })
+</p>
